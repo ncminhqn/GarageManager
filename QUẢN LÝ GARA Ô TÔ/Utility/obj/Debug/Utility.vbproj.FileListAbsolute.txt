@@ -1,0 +1,8 @@
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\Utility\bin\Debug\Utility.dll
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\Utility\bin\Debug\Utility.pdb
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\Utility\bin\Debug\Utility.xml
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\Utility\obj\Debug\Utility.Resources.resources
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\Utility\obj\Debug\Utility.vbproj.GenerateResource.Cache
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\Utility\obj\Debug\Utility.dll
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\Utility\obj\Debug\Utility.xml
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\Utility\obj\Debug\Utility.pdb

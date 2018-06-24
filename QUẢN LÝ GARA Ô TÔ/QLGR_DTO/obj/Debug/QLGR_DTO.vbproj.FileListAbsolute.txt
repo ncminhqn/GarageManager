@@ -1,0 +1,9 @@
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DTO\bin\Debug\QLGR_DTO.dll
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DTO\bin\Debug\QLGR_DTO.pdb
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DTO\bin\Debug\QLGR_DTO.xml
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DTO\obj\Debug\QLGR_DTO.Resources.resources
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DTO\obj\Debug\QLGR_DTO.vbproj.GenerateResource.Cache
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DTO\obj\Debug\QLGR_DTO.dll
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DTO\obj\Debug\QLGR_DTO.xml
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DTO\obj\Debug\QLGR_DTO.pdb
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DTO\obj\Debug\QLGR_DTO.vbprojResolveAssemblyReference.cache

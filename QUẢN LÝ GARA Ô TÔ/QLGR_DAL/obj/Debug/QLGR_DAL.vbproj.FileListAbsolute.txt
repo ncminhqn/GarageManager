@@ -1,0 +1,15 @@
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DAL\bin\Debug\QLGR_DAL.dll
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DAL\bin\Debug\QLGR_DAL.pdb
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DAL\bin\Debug\QLGR_DAL.xml
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DAL\bin\Debug\QLGR_DTO.dll
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DAL\bin\Debug\Utility.dll
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DAL\bin\Debug\QLGR_DTO.pdb
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DAL\bin\Debug\QLGR_DTO.xml
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DAL\bin\Debug\Utility.pdb
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DAL\bin\Debug\Utility.xml
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DAL\obj\Debug\QLGR_DAL.vbprojResolveAssemblyReference.cache
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DAL\obj\Debug\QLGR_DAL.Resources.resources
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DAL\obj\Debug\QLGR_DAL.vbproj.GenerateResource.Cache
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DAL\obj\Debug\QLGR_DAL.dll
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DAL\obj\Debug\QLGR_DAL.xml
+C:\Users\MSI\Documents\GitHub\Project-GaraCar-ISE\QUẢN LÝ GARA Ô TÔ\QLGR_DAL\obj\Debug\QLGR_DAL.pdb
